@@ -3,15 +3,13 @@ export default function HeroSection() {
     <section id="heroSection" className="hero--section">
       <div className="hero--section--content--box">
         <div className="hero--section--content">
-          <p className="section--title">Hey, I'm John</p>
+          <p className="section--title">Hey, I'm Satyam</p>
           <h1 className="hero--section--title">
-            <span className="hero--section-title--color">Full Stack</span>{" "}
-            <br />
-            Developer
+            <span className="hero--section-title--color">Tech Enthusiast</span>{" "}
           </h1>
           <p className="hero--section-description">
-            Lorem ipsum dolor sit, amet consectetur adipisicing elit.
-            <br /> Dolorum, quas. Amet soluta assumenda cum?
+            <b>B.Tech in Data Science | Full-Stack Developer | Data Analyst </b><br />
+Passionate about building web apps & turning data into solutions. Created CodeTrack, optimized reporting by 40%, and thrive in collaborative problem-solving.
           </p>
         </div>
         <button className="btn btn-primary">Get In Touch</button>

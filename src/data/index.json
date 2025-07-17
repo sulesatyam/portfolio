@@ -4,74 +4,44 @@
       "id": "1",
       "src": "./img/product-chain-1.png",
       "title": "Front-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I was using HTML, CSS, JavaScript to develop the fronted, but now I've optimized it using React.js! It's smoother, faster and full of excitement to develop using react!"
     },
     {
       "id": "2",
       "src": "./img/tag-1.png",
       "title": "Back-End",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I started with Django for its robustness in handling complex backend logic, and now I’ve supercharged it! By integrating Django REST Framework (DRF), I’ve built scalable APIs with authentication, optimized queries, and seamless database interactions. Plus, I’ve added asynchronous tasks with Celery for heavy workloads. Every endpoint is efficient, secure, and ready to power dynamic frontends like my React apps!"
     },
     {
       "id": "3",
       "src": "./img/feather-pen-2.png",
       "title": "UI & UX Design",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "I don’t just build interfaces—I craft experiences. Starting with wireframes and user flows, I refine designs into intuitive, visually appealing interfaces using tools like Figma. With React.js, I bring those designs to life, ensuring pixel-perfect responsiveness and smooth interactions. Every button, animation, and layout is intentional—because good design shouldn’t just work, it should delight."
     },
     {
       "id": "4",
       "src": "./img/feather-pen-1.png",
       "title": "Webflow Development",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique"
+      "description": "Why hard-code when you can drag, drop, and dominate? I use Webflow to build stunning, no-code websites with CMS-powered content, custom interactions, and seamless animations—all while keeping things SEO-friendly and lightning-fast. It’s the perfect blend of design freedom and technical precision, letting me ship polished sites faster than ever."
     }
   ],
   "portfolio": [
     {
       "id": "1",
       "src": "./img/placeholder-image.png",
-      "title": "Ahuse",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Airbnb-Listings-Project",
+      "description": "This project is a comprehensive exploratory data analysis (EDA) of an Airbnb dataset. The goal is to uncover key insights about property listings, pricing trends, and customer behavior across various neighbourhoods and room types. Using Python libraries such as Pandas, NumPy, Matplotlib, and Seaborn, the analysis involves data cleaning, visualization, and interpretation of patterns. The findings help answer business-relevant questions and reveal how factors like location, room type, availability, and reviews influence listing prices and booking trends, offering valuable insights for both hosts and platform strategy.",
       "link": "View In Github"
     },
     {
       "id": "2",
       "src": "./img/placeholder-image-1.png",
-      "title": "App Dashboard",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "link": "View In Github"
-    },
-    {
-      "id": "3",
-      "src": "./img/placeholder-image-2.png",
-      "title": "Easy Rentn",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
+      "title": "Sales Insights Dashboard using Power BI",
+      "description": "The Sales Insights Dashboard is a business intelligence solution built for a computer hardware company in India. It converts raw Excel-based sales data into actionable insights, helping the Sales team monitor and optimize performance across regions, products, and time using Power BI. Dashboard Preview",
       "link": "View In Github"
     }
+    
   ],
   "testimonial": [
-    {
-      "id": "1",
-      "count": "5",
-      "src": "./img/avatar-image.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Dianne Russel",
-      "author_designation": "Starbucks"
-    },
-    {
-      "id": "2",
-      "count": "5",
-      "src": "./img/avatar-image-1.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kristin Watson",
-      "author_designation": "Louis Vuitton"
-    },
-    {
-      "id": "3",
-      "count": "5",
-      "src": "./img/avatar-image-2.png",
-      "description": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. Suspenmdisse varius eim in eros elementum tristique",
-      "author_name": "Kathryn Murphy",
-      "author_designation": "McDonald's"
-    }
-  ]
+      ]
 }
